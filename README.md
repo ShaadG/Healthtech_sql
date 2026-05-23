@@ -1,6 +1,6 @@
 # HEALTHTECH Data Repository Demo
 
-A Python CLI tool that simulates a **HEALTHTECH Data Repository** — the SQL database at the core of HEALTHTECH's Enterprise Health Record platform. Built to demonstrate the technical skills required for HEALTHTECH's Technical Support Specialist (Data Repository) role.
+A Python CLI tool that simulates a **HEALTHTECH Data Repository** — the SQL database at the core of an Enterprise Health Record platform. Built to demonstrate the technical skills required for a Technical Support Specialist role.
 
 ---
 
