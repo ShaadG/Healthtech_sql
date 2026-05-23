@@ -1,0 +1,47 @@
+# Personal / local strategy files — not for public repo
+job_project_template.md
+hiring_manager_system_prompt.md
+HEALTHTECH_DR_DEMO.md
+
+# Database — never commit live data
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated exports — may contain PHI-adjacent data
+exports/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Claude Code local config — contains machine-specific paths
+.claude/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
